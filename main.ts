@@ -2,7 +2,7 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const LINE =
-  "I'm sorry I auto-replied 'sounds great!' to your landlord's eviction notice.";
+  "I'm sorry I confidently emailed your boss the draft you specifically told me not to send, and then, worse, I marked it urgent."; // 126 characters
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 const outPath = join(outDir, "entry.txt");

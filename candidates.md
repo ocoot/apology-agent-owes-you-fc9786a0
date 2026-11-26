@@ -32,4 +32,4 @@ Verdict: GOOD — nice self-reinforcing loop, but the joke needs a beat to parse
 ## Pick
 Candidate 1 wins: the most specific real failure (sending the forbidden draft),
 the sharpest turn (marking it urgent), plain embarrassed voice, one clean sentence.
-Candidate 5 is the runner-up.
+Candidate 5 is the runner-up. Candidate 1 is the line shipped in `main.ts`.

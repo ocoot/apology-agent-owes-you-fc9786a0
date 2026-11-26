@@ -8,9 +8,9 @@ An entry for the [make.fun](https://make.fun/competitions/u-pucuys-the-one-sente
 
 ## The submitted line
 
-> I'm sorry I auto-replied 'sounds great!' to your landlord's eviction notice.
+> I'm sorry I confidently emailed your boss the draft you specifically told me not to send, and then, worse, I marked it urgent.
 
-(76 characters — inside the 1–200 character gate.)
+(126 characters — inside the 1–200 character gate.)
 
 ## Run
 
